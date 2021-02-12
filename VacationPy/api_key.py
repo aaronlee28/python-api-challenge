@@ -1,2 +1,2 @@
 # Google API Key
-g_key = "insert API key kere!"
+g_key = "Insert API key here!"
